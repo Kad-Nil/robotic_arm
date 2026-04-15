@@ -19,5 +19,5 @@ The robotic arm is controlled using:
 - Serial communication for command-based control (PICK, HOME)
 
 ## Files
-- arm_serial_control.ino → Arduino arm command system
-- object_retrieval.ino → Full robot logic with sensors
+- serial_controlled_arm_test_code.ino → Arduino arm test system
+- integrated_object_retrieval_code.ino → Full robot logic with sensors
